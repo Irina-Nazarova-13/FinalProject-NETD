@@ -1,0 +1,13 @@
+C:\Users\nazar\source\repos\FinalProjectForNETD\bin\Debug\FinalProjectForNETD.exe.config
+C:\Users\nazar\source\repos\FinalProjectForNETD\bin\Debug\FinalProjectForNETD.exe
+C:\Users\nazar\source\repos\FinalProjectForNETD\bin\Debug\FinalProjectForNETD.pdb
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.csprojAssemblyReference.cache
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.Properties.Resources.resources
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.csproj.GenerateResource.cache
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.exe
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.pdb
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\FinalProjectForNETD.formMain.resources
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\Lab3.formUnitsShipped.resources
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\Lab5.formTextEditor.resources
+C:\Users\nazar\source\repos\FinalProjectForNETD\obj\Debug\CE1.formAwesomeness.resources
